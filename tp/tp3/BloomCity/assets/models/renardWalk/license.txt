@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Fox Walking In Place
+* source:	https://sketchfab.com/3d-models/minecraft-fox-walking-in-place-8f255b6cabc149d89f9a9e34edf0d37c
+* author:	Venson (https://sketchfab.com/Venson_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Fox Walking In Place" (https://sketchfab.com/3d-models/minecraft-fox-walking-in-place-8f255b6cabc149d89f9a9e34edf0d37c) by Venson (https://sketchfab.com/Venson_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	cobblestone ground - highpoly
+* source:	https://sketchfab.com/3d-models/cobblestone-ground-highpoly-903c68a26d0e470bb4443acf441049ba
+* author:	SPLEEN VISION (https://sketchfab.com/spleen.vision)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cobblestone ground - highpoly" (https://sketchfab.com/3d-models/cobblestone-ground-highpoly-903c68a26d0e470bb4443acf441049ba) by SPLEEN VISION (https://sketchfab.com/spleen.vision) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

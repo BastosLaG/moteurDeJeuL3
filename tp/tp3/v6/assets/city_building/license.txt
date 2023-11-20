@@ -1,0 +1,11 @@
+Model Information:
+* title:	city building
+* source:	https://sketchfab.com/3d-models/city-building-f38a12b260c042c39b4906494be9c26e
+* author:	GM (https://sketchfab.com/GMmdoels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "city building" (https://sketchfab.com/3d-models/city-building-f38a12b260c042c39b4906494be9c26e) by GM (https://sketchfab.com/GMmdoels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

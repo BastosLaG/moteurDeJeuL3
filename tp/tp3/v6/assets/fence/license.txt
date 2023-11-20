@@ -1,0 +1,11 @@
+Model Information:
+* title:	l Fence
+* source:	https://sketchfab.com/3d-models/l-fence-f814f14f7d78498ab976dcaa79b90650
+* author:	julia_dar (https://sketchfab.com/julia_dar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "l Fence" (https://sketchfab.com/3d-models/l-fence-f814f14f7d78498ab976dcaa79b90650) by julia_dar (https://sketchfab.com/julia_dar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
